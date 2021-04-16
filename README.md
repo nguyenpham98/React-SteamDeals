@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# SteamDeals - Explore Steam Games On Sale (React/Firebase)
+
+SteamDeals is a site that guides users to explore currently games at Steam on sale. Users can login with a Google account to personalize their favorite deals.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
