@@ -2,6 +2,10 @@
 
 SteamDeals is a site that guides users to explore currently games at Steam on sale. Users can login with a Google account to personalize their favorite deals.
 
+Visit the site here: https://react-steamdeals.web.app/
+
+###
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
