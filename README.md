@@ -1,6 +1,6 @@
 # SteamDeals - Explore Steam Games On Sale (React/Firebase/CheapShark API)
 
-SteamDeals is a site that guides users to explore currently games at Steam on sale. Users can login with a Google account to personalize their favorite deals.
+SteamDeals is a price comparision site for discounted digital PC games on Steam. Users can login with a Google account and bookmark games to their personal wishlist.
 
 Visit the site here: https://react-steamdeals.web.app/
 
